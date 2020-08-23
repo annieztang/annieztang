@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Aloe Money's mobile application
-- 🌱 I’m currently learning Redux!
+- 🔭 I’m currently working on Aloe Money's mobile application in Dart/Flutter
+- 🌱 I’m currently learning Redux and Kotlin
 - 💬 Ask me about my web development experience
 
 <!--
