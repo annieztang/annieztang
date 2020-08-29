@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Annie! 👋
 
 - 🔭 I’m currently working on Aloe Money's mobile application in Dart/Flutter
 - 🌱 I’m currently learning Redux and Kotlin
