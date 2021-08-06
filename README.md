@@ -1,7 +1,6 @@
 ### Hi there, I'm Annie! 👋
 
-- 🔭 I’m currently working on Aloe Money's mobile application in Dart/Flutter
-- 🌱 I’m currently learning Redux
+- 🔭 I’m currently working as a Software Engineer Intern at Goldman Sachs
 - 💬 Ask me about my web development experience
 - ⚡ Fun fact: Besides a programmer, I am a painter!
 
