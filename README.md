@@ -1,6 +1,6 @@
 ### Hi there, I'm Annie! 👋
 
-- 🔭 I’m currently working as a Software Engineer Intern at Goldman Sachs
+- 🔭 I’m an incoming Software Engineer at Salesforce
 - 💬 Ask me about my web development experience
 - ⚡ Fun fact: Besides a programmer, I am a painter!
 
